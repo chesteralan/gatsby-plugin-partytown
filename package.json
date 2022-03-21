@@ -1,0 +1,11 @@
+{
+  "name": "gatsby-plugin-partytown",
+  "version": "1.0.0",
+  "description": "Using Partytown to load third party scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alchie Tagudin (alchie.tagudin@thepetlabco.com)",
+  "license": "ISC"
+}
