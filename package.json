@@ -6,6 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Alchie Tagudin (alchie.tagudin@thepetlabco.com)",
-  "license": "ISC"
+  "author": "Alchie Tagudin (chesteralantagudin@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "@builder.io/partytown": "^0.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chesteralan/gatsby-plugin-partytown.git"
+  },
+  "keywords": [
+    "gatsbyjs",
+    "gatsby",
+    "builder.io",
+    "partytown"
+  ],
+  "homepage": "https://github.com/chesteralan/gatsby-plugin-partytown#readme"
 }
