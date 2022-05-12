@@ -4,7 +4,7 @@
   "description": "Using Partytown to load third party scripts",
   "main": "index.js",
   "scripts": {
-    "build": "babel src --ignore src/pages --out-dir .",
+    "build": "babel src --out-dir .",
     "patch": "npm version patch",
     "minor": "npm version minor",
     "test": "jest --config ./config/jest.config.js"
