@@ -1,10 +1,11 @@
-# gatsby-plugin-partytown
+## Description
 Partytown implementation in GatsbyJS as a plugin
 
-## ENV
+## How to install
+
+Add this to your .env file
 GTM_ID=
 
-## Installation of Partytown
 npm i gatsby-plugin-partytown
 
 ## Partytown

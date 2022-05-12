@@ -40,7 +40,8 @@
     "gatsbyjs",
     "gatsby",
     "builder.io",
-    "partytown"
+    "partytown",
+    "gatsby-plugin"
   ],
   "homepage": "https://github.com/chesteralan/gatsby-plugin-partytown#readme"
 }
