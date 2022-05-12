@@ -5,7 +5,7 @@ Partytown implementation in GatsbyJS as a plugin
 GTM_ID=
 
 ## Installation of Partytown
-npm install @builder.io/partytown
+npm i gatsby-plugin-partytown
 
 ## Partytown
 https://partytown.builder.io/getting-started
